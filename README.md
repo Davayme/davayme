@@ -1,5 +1,5 @@
 ### !Hola a todos! Me llamo David Ayme :D
-*🔭 Soy estudiante de ingeniería
+-🔭 Soy estudiante de ingeniería
 
 <!--
 **Davayme/davayme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
