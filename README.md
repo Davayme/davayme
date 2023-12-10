@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **multiplatform application for a restaurant**
 
-- 🌱 I’m currently learning **Flutter, Djang**
+- 🌱 I’m currently learning **Flutter, Django**
 
 - 👯 I’m looking to collaborate on **projects with collaborative environments**
 
