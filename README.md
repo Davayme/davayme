@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Ayme</h1>
-<h3 align="center">A passionate Full-Stack Developer from [Your Location]</h3>
+<h3 align="center">A passionate Full-Stack Developer from Ambato, Ecuador</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
